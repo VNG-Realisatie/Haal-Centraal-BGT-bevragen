@@ -4,7 +4,6 @@ title: Haal Centraal BGT bevragen
 ---
 # Haal Centraal BGT bevragen
 
-## Introductie
 Voor deze API worden op dit moment user stories bij gemeenten verzameld.
 
 ## Direct uitproberen?
