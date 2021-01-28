@@ -4,30 +4,28 @@ title: Haal Centraal BGT bevragen
 ---
 # Haal Centraal BGT bevragen
 
-## Introductie
-Doel van het programma Haal Centraal is om de verstrekking van basisgegevens aan binnengemeentelijke afnemers te outsourcen naar Landelijke Registraties (RvIG, Kadaster, KVK). Dit moet leiden tot een forse reductie van lokale kopieën bij gemeenten. 
+Voor deze API worden op dit moment user stories bij gemeenten verzameld.
 
-In principe willen we voor iedere activiteit op een lokale kopie een Haal Centraal alternatief te bieden in de vorm van een API. 
+## Direct uitproberen?
+Er zijn nog geen specificaties.
 
-### Toegevoegde waarde voor gemeenten
-- sneller aansluiten afnemers 
-- goedkoper aansluiten afnemers (x aantal binnegemeentelijke aansluiters x 355 gemeenten)
-- lagere investeringen (geen lokale kopie/ gegevensmagazijn)
-- lagere beheerkosten (geen gegevensbeheer lokale kopieën)
-- hogere ROI: hergebruik API Landelijke Registratie door alle gemeenten
-- betere technologie-business alignment (Landelijke Registratie voert sneller een wijziging door dan 355 afzonderlijke gemeenten) 
-- meer focus op de businessvraag van afnemers (i.p.v. op betrouwbaarheid etc. lokale kopieën)
-- maximale compliancy op de gemeentelijke softwaremarkt (aansluiting gemeente x = 100% herbruikbaar in gemeente y)
+## Bronnen
 
-### Toegevoegde waarde voor leveranciers
-- leveranciers kunnen zich richten op het bieden van toegevoegde waarde voor burgers, bedrijven en medewerkers i.p.v. plumbing concerns.
+* [Productvisie Haal Centraal](https://vng-realisatie.github.io/Haal-Centraal){:target="_blank" rel="noopener"}
+* [API Design Visie](https://github.com/Geonovum/KP-APIs/tree/master/Werkgroep%20Design%20Visie){:target="_blank" rel="noopener"}
+* [REST API Design Rules](https://docs.geostandaarden.nl/api/API-Designrules/){:target="_blank" rel="noopener"}
+* [Landelijke API strategie voor de overheid](https://geonovum.github.io/KP-APIs/){:target="_blank" rel="noopener"}
+* [Stelselcatalogus](https://www.stelselcatalogus.nl/registraties/BGT){:target="_blank" rel="noopener"}
 
-## Context
-Haal Centraal is een G5 initiatief (Amsterdam, Rotterdam, Den Haag, Utrecht en Eindhoven). Het concept is getoetst in de BRK pilot van de gemeente Den Haag met het Kadaster op basis van de RSGB bevragingen standaard (voorloper BRP- en BRK-bevragen). De businesscase is gebaseerd op ervaringscijfers van de gemeente Den Haag en de softwareontwikkeling gedurende de pilot. 
+## Contact
 
-## BAG bevragen
-Deze repository beschrijft het project om tot een API voor de Basisregistratie Grootschalige Topografie (BGT) te komen.
+* Product Owner: Cathy Dingemanse, [cathy.dingemanse@denhaag.nl](mailto:cathy.dingemanse@denhaag.nl)
+* Designer: Johan Boer, [johan.boer@vng.nl](mailto:johan.boer@vng.nl)
+* Designer: Robert Melskens, [robert.melskens@vng.nl](mailto:robert.melskens@vng.nl)
+* Customer zero: Melvin Lee, [melvin.lee@iswish.nl](mailto:melvin.lee@iswish.nl)
+* Tester: Frank Samwel, [frank.samwel@denhaag.nl](mailto:frank.samwel@denhaag.nl)
 
 ## Licentie
-Copyright &copy; VNG Realisatie 2018
-Licensed under the [EUPL](https://github.com/VNG-Realisatie/Haal-Centraal-BGT-bevragen/blob/master/LICENCE.md)
+
+Copyright &copy; VNG Realisatie 2020
+Licensed under the [EUPL](https://github.com/VNG-Realisatie/Haal-Centraal-BRP-bevragen/blob/master/LICENCE.md){:target="_blank" rel="noopener"}
