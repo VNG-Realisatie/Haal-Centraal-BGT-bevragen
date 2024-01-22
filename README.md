@@ -1,6 +1,6 @@
 # Haal Centraal BGT bevragen
 
-## Let op! Deze API wordt (nog) niet door het Kadaster aangeboden!
+## Let op! Deze API wordt tot nader order niet door het Kadaster aangeboden!
 
 Voor deze API worden op dit moment user stories bij gemeenten verzameld.
 
