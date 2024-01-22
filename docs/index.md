@@ -4,26 +4,28 @@ title: Haal Centraal BGT bevragen
 ---
 # Haal Centraal BGT bevragen
 
+## Let op! Deze API wordt (nog) niet door het Kadaster aangeboden!
+
 Voor deze API worden op dit moment user stories bij gemeenten verzameld.
 
-## Direct uitproberen?
+## Direct aan de slag?
 Er zijn nog geen specificaties.
 
 ## Bronnen
 
-* [Productvisie Haal Centraal](https://vng-realisatie.github.io/Haal-Centraal){:target="_blank" rel="noopener"}
-* [API Design Visie](https://github.com/Geonovum/KP-APIs/tree/master/Werkgroep%20Design%20Visie){:target="_blank" rel="noopener"}
+* [API Design Visie](https://github.com/Geonovum/KP-APIs/blob/master/overleggen/Werkgroep%20API%20design%20visie/API%20Design%20Visie.md){:target="_blank" rel="noopener"}
 * [REST API Design Rules](https://docs.geostandaarden.nl/api/API-Designrules/){:target="_blank" rel="noopener"}
 * [Landelijke API strategie voor de overheid](https://geonovum.github.io/KP-APIs/){:target="_blank" rel="noopener"}
-* [Stelselcatalogus](https://www.stelselcatalogus.nl/registraties/BGT){:target="_blank" rel="noopener"}
+* [Stelselcatalogus](https://www.stelselcatalogus.nl/registraties/registratie?id=http://opendata.stelselcatalogus.nl/id/registratie/BGT){:target="_blank" rel="noopener"}
 
 ## Contact
 
-* Product Owner: Cathy Dingemanse, [c.dingemanse@comites.nl](mailto:c.dingemanse@comites.nl)
+<!--* Product Owner: Cathy Dingemanse, [c.dingemanse@comites.nl](mailto:c.dingemanse@comites.nl)
 * Designer: Johan Boer, [johan.boer@vng.nl](mailto:johan.boer@vng.nl)
 * Designer: Robert Melskens, [robert.melskens@vng.nl](mailto:robert.melskens@vng.nl)
 * Customer zero: Melvin Lee, [melvin.lee@iswish.nl](mailto:melvin.lee@iswish.nl)
-* Tester: Frank Samwel, [frank.samwel@denhaag.nl](mailto:frank.samwel@denhaag.nl)
+* Tester: Frank Samwel, [frank.samwel@denhaag.nl](mailto:frank.samwel@denhaag.nl)-->
+[VNG Ondersteuning standaarden](mailto:ondersteuning.standaarden@vng.nl)
 
 ## Licentie
 
